@@ -1,5 +1,5 @@
-JiraWorkInProgressBoard
-=======================
+Jira Work In Progress Board
+===========================
 
 A dashboard view for work in progress capacity status.
 
